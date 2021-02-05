@@ -1,0 +1,4 @@
+name: TntRun
+version: ${project.version}
+main: ru.danka.tntrun.TntRun
+api-version: 1.16
